@@ -21,7 +21,7 @@ Hi, I'm Mendrika Nomentsoa
 
 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MendikaNomentsoa&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MendrikaNomentsoa&show_icons=true&theme=tokyonight)
 
 💻 Most Used Languages
 
