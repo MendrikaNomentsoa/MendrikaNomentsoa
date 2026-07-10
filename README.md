@@ -14,6 +14,8 @@ My main interests include:
 
 🌐 Full-Stack Development
 
+🔄 Currently learning TypeScript and NestJS to broaden my backend skills beyond the Java ecosystem
+
 🚀 Turning innovative ideas into real-world applications
 
 I'm constantly learning new technologies and enjoy solving real problems through software and AI.
